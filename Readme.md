@@ -1,6 +1,9 @@
 # Project Name
 Instagram Application
 
+![image](https://github.com/DharmendraShekhawat/Instagram/assets/142703677/4696bbc2-046a-441c-9439-b108243f45d7)
+
+
 # Frameworks and Language Used
 **Spring Boot** 2.1.0
 **Java** 20.0
